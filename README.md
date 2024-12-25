@@ -15,4 +15,4 @@ The key objectives are:
 4. Support Scalability: Design a system that can scale as the agency expands.
 5. Role-Based Access: Implement secure user access control for data integrity.
 6. Cloud Deployment: Deploy the system on AWS for reliability and accessibility.
-7. <img width="1166" alt="Screenshot 2024-12-24 at 7 08 45 PM" src="https://github.com/user-attachments/assets/56dec3d7-242e-4abf-bc89-32c8288b1959" />
+<img width="1166" alt="Screenshot 2024-12-24 at 7 08 45 PM" src="https://github.com/user-attachments/assets/56dec3d7-242e-4abf-bc89-32c8288b1959" />
